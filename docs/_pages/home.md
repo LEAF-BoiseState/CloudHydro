@@ -5,7 +5,8 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: ../assets/images/mm-home-page-feature.jpg
-  excerpt: "Advancing water science in a changing through technical innovation, education, and outreach."
+excerpt: > 
+  Advancing water science in a changing through technical innovation, education, and outreach.
 feature_row:
   - image_path: ../assets/images/mm-customizable-feature.png
     alt: "Research Tools"
