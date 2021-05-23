@@ -8,7 +8,7 @@ header:
 excerpt: > 
   Advancing water science in a changing through technical innovation, education, and outreach.
 feature_row:
-  - image_path: ../CloudHydro/assets/images/code.jpg
+  - image_path: ../CloudHydro/assets/images/code.png
     alt: "Research Tools"
     title: "Research"
     excerpt: "Advancing regional climate and hydrological understanding through cloud computing."
