@@ -22,7 +22,7 @@ feature_row:
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: ../assets/images/mm-free-feature.png
+  - image_path: ../CloudHydro/assets/images/outreach.png
     alt: "Outreach"
     title: "Outreach and Engagement"
     excerpt: "Working with teachers to bring computational Earth Science to the classroom!"
